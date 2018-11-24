@@ -1,2 +1,2 @@
 # Python-Password-Generator
-Small Python program to generate random password
+Small Python program to generate random passwords
